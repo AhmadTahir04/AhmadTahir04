@@ -1,59 +1,50 @@
 # Hi there, I'm Ahmad Tahir! 👋
 
-I’m a passionate software engineering student at Queen’s University with a specialization in Software Design. My experience spans frontend development, full-stack projects, and impactful AI solutions. I love bringing ideas to life through technology and am always eager to dive into new challenges!
+Welcome to my GitHub profile! I'm a Computer Science student at Queen’s University with a focus on Software Design. I’m passionate about coding, exploring new technologies, and staying active!
 
 ---
 
-## 🎓 Education
-**Bachelor of Computer Science Honours (BcmpH)**  
-Queen’s University, Kingston, ON  
-*Specialization in Software Design* | **Core GPA**: 3.43/4.3  
+## 🛠 Tech Stack
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat-square&logo=twilio)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 
 ---
 
-## 💼 Professional Experience
-### Frontend Developer Intern | SellStatic  
-*May 2024 – August 2024, Toronto, ON*  
-- Built full-stack web applications with the **MERN** stack, reducing deployment time by 25% and latency by 30%.
-- Collaborated with a design team to optimize applications and enhance user engagement, driving a 15% increase in mobile interaction.
+## 📈 GitHub Stats
+![Ahmad Tahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadTahir04&show_icons=true&theme=dark)
 
-### Web Development Intern | Focus Centre  
-*September 2022 – January 2023, Mississauga, ON*  
-- Designed and optimized the Focus Centre’s website, improving load times by 20% and boosting the click-through rate by 21%.
-- Used **SEO** and analytics tools to drive site impressions to over 9,500, optimizing digital campaigns and user conversion rates.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadTahir04&layout=compact&theme=dark)
 
 ---
 
-## 🌟 Projects
-### [LensSense](https://github.com/AhmadTahir04/LensSense)  
-*Python, OpenCV, scikit-learn, Tkinter*  
-A real-time camera-based image classifier that uses **SVM** for high-accuracy image recognition. Built a GUI and applied image processing techniques, boosting processing speed by 15% and achieving 95% classification accuracy.
-
-### [CryptosSphere](https://github.com/AhmadTahir04/CrpytoSphere)  
-*JavaScript, MERN Stack, Chart.js*  
-A cryptocurrency investment simulator with real-time data for over 14,000 cryptocurrencies. Built secure user authentication, portfolio management features, and real-time performance visualization, enabling users to experience seamless digital currency tracking.
-
----
-
-## 🤖 Extracurriculars
-### Computer Vision Design Team Member | QMIND  
-Working on the **Prosopagnosia Smart Glasses** project to assist individuals with facial recognition challenges. Contributing to advanced algorithm development and enhancing usability, aiming to make a real-world impact for those affected by prosopagnosia.
-
----
-
-## 🛠 Technical Skills
-**Languages**: Java, Python, C, JavaScript, TypeScript, Haskell, SQL, HTML/CSS  
-**Frameworks**: React.js, Node.js, AngularJS, Django, Flask, Bootstrap  
-**Libraries**: Pandas, NumPy, Matplotlib, Chart.js  
-**Developer Tools**: Git/GitHub, Visual Studio, PyCharm, Linux  
+## 🚗 Fun Fact
+I love working on cars and hitting the gym! Whether it's modifying engines or lifting weights, I’m all about staying active and hands-on. 🚗💪
 
 ---
 
 ## 📫 Let's Connect!
-- **[GitHub](https://github.com/AhmadTahir04)**
 - **[LinkedIn](https://www.linkedin.com/in/ahmadtahir04)**
+- **[GitHub](https://github.com/AhmadTahir04)**
 - **Email**: 21amt25@queensu.ca
 
 ---
 
-Thank you for visiting my profile! Always open to new opportunities and collaborations!
+Thanks for visiting my profile! Always open to connecting and exploring new opportunities!
