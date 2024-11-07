@@ -6,12 +6,9 @@ Welcome to my GitHub profile! I'm a Computer Science student at Queen’s Univer
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
@@ -21,9 +18,11 @@ Welcome to my GitHub profile! I'm a Computer Science student at Queen’s Univer
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-C++-181717?style=flat-square&logo=github)
-![Twilio](https://img.shields.io/badge/-C-F22F46?style=flat-square&logo=twilio)
-![Notion](https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=notion)
-![Postman](https://img.shields.io/badge/-React-FF6C37?style=flat-square&logo=postman)
+![Notion](https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=Javascript)
+![Postman](https://img.shields.io/badge/-React-FF6C37?style=flat-square&logo=React)
+![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-HTML-1572B6?style=flat-square&logo=HTML5)
+
 
 ---
 
