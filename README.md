@@ -13,15 +13,14 @@ Welcome to my GitHub profile! I'm a Computer Science student at Queen’s Univer
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
-![Figma](https://img.shields.io/badge/-MongoDB-F24E1E?style=flat-square&logo=figma)
+![Figma](https://img.shields.io/badge/-MongoDB-F24E1E?style=flat-square&logo=MongoDB)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-C++-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-C++-181717?style=flat-square&logo=C++)
 ![Notion](https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=Javascript)
 ![Postman](https://img.shields.io/badge/-React-FF6C37?style=flat-square&logo=React)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![CSS3](https://img.shields.io/badge/-HTML-1572B6?style=flat-square&logo=HTML5)
 
 
 ---
