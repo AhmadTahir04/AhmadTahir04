@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a Computer Science student at Queen’s Univer
 ---
 
 ## 🛠 Tech Stack
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
